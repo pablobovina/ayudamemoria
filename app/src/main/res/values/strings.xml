@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AyudaMemoria</string>
+    <string name="action_settings">Settings</string>
+    <color name="red">#C70039</color>
+    <color name="orange">#FF5733</color>
+    <color name="yellow">#FFC300</color>
+    <color name="green">#DAF7A6</color>
+</resources>
